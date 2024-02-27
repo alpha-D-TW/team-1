@@ -1,7 +1,7 @@
 import json
 import random
 
-# 读取原始JSON文件
+# 读取原始 JSON 文件并筛选字段
 with open('data.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
@@ -14,21 +14,34 @@ risk_ranges = {
     'R5': (-20, 66)
 }
 
-# 为每个基金生成年度回报率并分类
-funds_by_risk = {risk: [] for risk in risk_ranges}
+# 存储所有基金信息的列表
+funds = []
 
+# 为每个基金生成年度回报率并添加到列表中
 for fund in data:
     risk = fund['risk']
     annual_return_rate = round(random.uniform(*risk_ranges[risk]), 4)  # 生成随机年度回报率
-    fund['annualReturnRate'] = round(annual_return_rate / 100, 2)  # 添加到基金信息中
-    fund['orgName'] = '广发基金管理有限公司'
-    funds_by_risk[risk].append(fund)
+    fund_data = {
+        'name': fund['name'],
+        'orgName': '广发基金管理有限公司',
+        'risk': fund['risk'],
+        'ForhbinfoUrl': fund['ForhbinfoUrl'],
+        'code': fund['code'],
+        'typeCode': fund['typeCode'],
+        'subType': fund['subType'],
+        'orgCode': fund['orgCode'],
+        'buyRate': fund['buyRate'],
+        'redeemRate': fund['redeemRate'],
+        'manageRate': fund['manageRate'],
+        'subscribeRate': fund['subscribeRate'],
+        'annualReturnRate': round(annual_return_rate / 100, 2)
+    }
+    funds.append(fund_data)
 
-# 将分类后的基金信息导出到不同的JSON文件
-for risk, funds in funds_by_risk.items():
-    with open(f'json/{risk}.jsonl', 'w', encoding='utf-8') as file:
-        for entry in funds:
-            json.dump(entry, file, ensure_ascii=False)
-            file.write('\n')
+# 将所有基金信息导出到同一个 JSONL 文件中
+with open('json/funds.jsonl.txt', 'w', encoding='utf-8') as file:
+    for entry in funds:
+        json.dump(entry, file, ensure_ascii=False)
+        file.write('\n')
 
 print("Generated.")
