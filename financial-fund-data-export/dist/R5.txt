@@ -1,0 +1,5 @@
+"name: 广发纳斯达克100指数联接基金（QDII）\nshortName: 广发纳斯达克100ETF联接美元(QDII)A\ncode: 000055\nrisk: R5\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=000055\nannualReturnRate: 0.05"
+"name: 广发轮动配置混合型证券投资基金\nshortName: 广发轮动配置\ncode: 000117\nrisk: R5\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=000117\nannualReturnRate: 0.82"
+"name: 广发美国房地产指数证券投资基金\nshortName: 广发美国房地产指数A类QDII\ncode: 000179\nrisk: R5\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=000179\nannualReturnRate: 0.94"
+"name: 广发全球医疗保健指数证券投资基金\nshortName: 广发全球医疗保健指数A类QDII\ncode: 000369\nrisk: R5\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=000369\nannualReturnRate: 0.12"
+"name: 广发新动力混合型证券投资基金\nshortName: 广发新动力\ncode: 000550\nrisk: R5\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=000550\nannualReturnRate: 0.47"

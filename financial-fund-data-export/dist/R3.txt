@@ -1,0 +1,5 @@
+"name: 广发景宁纯债债券型证券投资基金\nshortName: 广发景宁纯债A\ncode: 000037\nrisk: R3\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=000037\nannualReturnRate: 0.71"
+"name: 广发聚鑫债券型证券投资基金\nshortName: 广发聚鑫A\ncode: 000118\nrisk: R3\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=000118\nannualReturnRate: 0.67"
+"name: 广发聚鑫债券型证券投资基金\nshortName: 广发聚鑫C\ncode: 000119\nrisk: R3\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=000119\nannualReturnRate: 0.71"
+"name: 广发集利一年定期开放债券型证券投资基金\nshortName: 广发集利一年定开债A\ncode: 000267\nrisk: R3\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=000267\nannualReturnRate: 0.96"
+"name: 广发集利一年定期开放债券型证券投资基金\nshortName: 广发集利一年定开债C\ncode: 000268\nrisk: R3\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=000268\nannualReturnRate: 0.28"
