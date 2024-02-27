@@ -1,5 +1,0 @@
-"name: 广发聚优灵活配置混合型证券投资基金\nshortName: 广发聚优灵活配置\ncode: 000167\nrisk: R4\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=000167\nannualReturnRate: 0.77"
-"name: 广发成长优选灵活配置混合型证券投资基金\nshortName: 广发成长优选灵活配置\ncode: 000214\nrisk: R4\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=000214\nannualReturnRate: 0.49"
-"name: 广发趋势优选灵活配置混合型证券投资基金\nshortName: 广发趋势优选灵活配置A\ncode: 000215\nrisk: R4\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=000215\nannualReturnRate: 0.75"
-"name: 广发亚太中高收益债券型证券投资基金\nshortName: 广发亚太中高收益A类QDII\ncode: 000274\nrisk: R4\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=000274\nannualReturnRate: 0.26"
-"name: 广发主题领先灵活配置混合型证券投资基金\nshortName: 广发主题领先灵活配置\ncode: 000477\nrisk: R4\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=000477\nannualReturnRate: 0.73"

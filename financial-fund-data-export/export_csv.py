@@ -18,7 +18,7 @@ exported_funds = []
 # 遍历基金数据，按照要求选择导出的数据
 for fund in data:
     risk = fund['risk']
-    if exported_counts[risk] < 5:  # 检查该风险等级已导出的基金数量是否已经达到了 5 条
+    if exported_counts[risk] < 50:  # 检查该风险等级已导出的基金数量是否已经达到了 5 条
         annual_return_rate = round(random.uniform(0, 100), 4)  # 生成随机年度回报率
         fund_data = {
             'name': fund['name'],

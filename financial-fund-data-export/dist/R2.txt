@@ -1,5 +1,0 @@
-"name: 华夏理财30天债券型证券投资基金\nshortName: 华夏理财30天A\ncode: 001057\nrisk: R2\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=001057\nannualReturnRate: 0.13"
-"name: 华夏理财30天债券型证券投资基金\nshortName: 华夏理财30天B\ncode: 001058\nrisk: R2\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=001058\nannualReturnRate: 0.05"
-"name: 富国中证同业存单AAA指数7天持有期基金\nshortName: 富国同业存单AAA指数7天持有期\ncode: 014427\nrisk: R2\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=014427\nannualReturnRate: 0.45"
-"name: 南方中证同业存单AAA指数7天持有期基金\nshortName: 南方中证同业存单AAA指数7天持有\ncode: 014430\nrisk: R2\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=014430\nannualReturnRate: 0.38"
-"name: 鹏华中证同业存单AAA指数7天持有期基金\nshortName: 鹏华中证同业存单AAA指数7天持有期\ncode: 014437\nrisk: R2\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=014437\nannualReturnRate: 0.14"

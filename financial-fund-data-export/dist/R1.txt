@@ -1,5 +1,0 @@
-"name: 广发天天利货币市场基金\nshortName: 广发天天利A\ncode: 000475\nrisk: R1\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=000475\nannualReturnRate: 0.78"
-"name: 广发天天利货币市场基金\nshortName: 广发天天利B\ncode: 000476\nrisk: R1\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=000476\nannualReturnRate: 0.35"
-"name: 广发活期宝货币市场基金\nshortName: 广发活期宝货币A\ncode: 000748\nrisk: R1\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=000748\nannualReturnRate: 0.68"
-"name: 广发活期宝货币市场基金\nshortName: 广发活期宝货币B\ncode: 003281\nrisk: R1\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=003281\nannualReturnRate: 0.07"
-"name: 广发货币市场基金\nshortName: 广发货币C\ncode: 005092\nrisk: R1\nForhbinfoUrl: https://fund.cmbchina.com/FundPages/OpenFund/OpenFundDetail.aspx?FundID=005092\nannualReturnRate: 0.05"
