@@ -26,7 +26,9 @@ for fund in data:
 
 # 将分类后的基金信息导出到不同的JSON文件
 for risk, funds in funds_by_risk.items():
-    with open(f'json/{risk}.txt', 'w', encoding='utf-8') as file:
-        json.dump(funds, file, ensure_ascii=False, indent=4)
+    with open(f'json/{risk}.jsonl', 'w', encoding='utf-8') as file:
+        for entry in funds:
+            json.dump(entry, file, ensure_ascii=False)
+            file.write('\n')
 
 print("Generated.")
